@@ -9,7 +9,7 @@ android {
             minorApiLevel = 1
         }
     }
-
+    viewBinding.enable = true
     defaultConfig {
         applicationId = "com.example.geo"
         minSdk = 24
